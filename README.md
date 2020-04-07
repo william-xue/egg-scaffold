@@ -1,12 +1,11 @@
-# eggVueSpaTemplate
-
+# egg
 egg + vue + sequelize + mysql + jwt
 
 ### 开发
 
 #### 前端
 ```bash
-$ cd vue
+$ cd web
 $ npm i
 $ npm run serve
 $ open http://localhost:8080/
