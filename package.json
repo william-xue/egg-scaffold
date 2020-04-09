@@ -1,5 +1,5 @@
 {
-  "name": "zzestemplate",
+  "name": "egg scaffold",
   "version": "1.0.0",
   "description": "egg + vue + sequelize + mysql + jwt",
   "private": false,
